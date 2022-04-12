@@ -23,6 +23,7 @@ Please complete the instructions below:
    - Ignores a top-level directory named `artifacts`.
 
 <!-- Add your steps below starting with step 2 -->
+3. I will test this letter 
 
 ## Seeing your result
 
